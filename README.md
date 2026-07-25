@@ -2,6 +2,10 @@
 
 Python code for the chicken bot
 
+## Screenshot
+
+![Chicken Bot Screenshot](images/screenshot.png)
+
 ## Features
 
 - Replies with bawk to everything.
