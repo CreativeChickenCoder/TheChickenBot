@@ -20,7 +20,7 @@ Python code for the chicken bot
 
 - Released under the MIT License.
 
-\## Usage
+## Usage
 
 ```bash
 
