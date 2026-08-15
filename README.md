@@ -2,9 +2,13 @@
 
 Python code for the chicken bot
 
-## Screenshot
+## Sample Conversation
 
 ![Chicken Bot Screenshot](images/screenshot.png)
+
+## Technical Spec
+
+![spec](images/TheChickenBot.png)
 
 ## Features
 
